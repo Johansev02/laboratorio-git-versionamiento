@@ -122,3 +122,13 @@ font-size: 36px;
 grid-template-columns: 1fr;
 }
 }
+.git-flow {
+margin-top: 40px;
+background: rgba(96, 255, 1, 0.10);
+border: 1px solid rgba(96, 255, 1, 0.30); border-radius: 20px;
+padding: 24px;
+}
+
+.git-flow h3 { color: #60FF01;
+margin-bottom: 10px;
+}
